@@ -51,9 +51,12 @@ plt.show()
 
 ```
 # Output Waveform
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/637c089b-51a1-4b8a-b52a-0fafac5a8b1b" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/e417f706-9ac7-460f-a790-c06b8e2bf9a7" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/af3fb854-18c2-4f79-a302-bfce8715d604" />
+
+
+
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus code executed successfully.
